@@ -1,2 +1,2 @@
 # Python-Learning
-My Pyhon learning journey, featuringpractice programs, experiments and beginner level programs 
+My Pyhon learning journey, featuring practice programs, experiments and beginner level programs 
